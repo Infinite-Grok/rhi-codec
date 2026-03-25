@@ -18,9 +18,11 @@ RHI encodes images into a grid of Unicode braille characters, where **each dot c
 
 ## Live Demo
 
-**[Try it in your browser →](https://infinite-grok.github.io/rhi-codec/)**
+**[See the concept →](https://infinite-grok.github.io/rhi-codec/)** — Interactive demo with embedded examples.
 
-The demo page lets you encode any image, adjust width and rendering parameters, and see the reconstruction live. No server required — everything runs client-side.
+**[Open the tuner →](https://infinite-grok.github.io/rhi-codec/tuner.html)** — Upload any image, dial in all 26 controls, experience what the codec can do.
+
+Everything runs client-side — no server required.
 
 ## How It Works
 
